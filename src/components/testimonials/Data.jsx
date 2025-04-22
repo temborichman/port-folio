@@ -1,6 +1,4 @@
-import image1 from '../../assets/testimonial1.png';
-import image2 from '../../assets/testimonial2.png';
-import image3 from '../../assets/testimonial3.png';
+import image1 from '../../assets/testimonial1.jpeg';
 
 export const Data = [
     {
@@ -12,15 +10,15 @@ export const Data = [
 
 {
     id: 2,
-    image: image2,
-    title: "Sasha Masuku",
-    description: "A really good job aspects of the project were followed step by step and with good results.",
+    image: image1,
+    title: "Mayibongwe L Mpofu",
+    description: "A really good website and it highlights everything i wanted I am impressed by the good results.",
 },
 
 {
     id: 3,
-    image: image3,
-    title: "Nicole Dube",
-    description: "A really good job aspects of the project were followed step by step and with good results.",
+    image: image1,
+    title: "Blessing Zhou",
+    description: "A really good website and it highlights the landing page of the church website.",
 },
 ];

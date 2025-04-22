@@ -2,6 +2,7 @@ import React from 'react'
 import "./skills.css";  
 import Frontend from './Frontend';
 import Backend from './Backend';
+import Projects from './Projects';
 
 const Skills = () => {
   return (
@@ -13,6 +14,8 @@ const Skills = () => {
     <Frontend/>
     <Backend/>       
     </div>
+
+    <Projects />
     </section>
   )
 }

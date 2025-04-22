@@ -17,7 +17,7 @@ const Backend = () => {
           <div className="skills-data">
             <i className="fa-solid fa-certificate"></i>
             <div>
-              <h3 className="skills-name">SQL</h3>
+              <h3 className="skills-name">Superbase</h3>
               <span className="skills-level">Basic</span>
             </div>
           </div>
@@ -26,14 +26,14 @@ const Backend = () => {
             <i className="fa-solid fa-certificate"></i>
             <div>
               <h3 className="skills-name">Next Js</h3>
-              <span className="skills-level">Basic</span>
+              <span className="skills-level">Intemediate</span>
             </div>
           </div>
 
           <div className="skills-data">
             <i className="fa-solid fa-certificate"></i>
             <div>
-              <h3 className="skills-name">Python</h3>
+              <h3 className="skills-name">MongoDb</h3>
               <span className="skills-level">Basic</span>
             </div>
           </div>

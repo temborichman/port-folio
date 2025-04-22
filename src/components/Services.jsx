@@ -4,9 +4,9 @@ import "./services.css";
 
 const Services = () => {
   return (
-    <section id="services" className="services">
+    <section className="services section" id="services">
       <h2 className="section-title">Services</h2>
-      <div className="services-container">
+      <div className="services-container container grid">
         {/* UI/UX Design */}
         <div className="service-card">
           <div className="service-icon">
